@@ -6,6 +6,7 @@
 ## Github 统计
 ![](https://github-readme-stats.vercel.app/api?username=JoeshuTT&count_private=true&show_icons=true&theme=onedark)
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=visiky" />
 ## 技术栈
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
