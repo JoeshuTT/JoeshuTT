@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/congwa/congwa/main/assets/github-contribution-grid-snake.svg">
-</div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4999&pause=1000&width=435&lines=Hello+I'm+Joeshu)](https://git.io/typing-svg)
 
@@ -10,6 +8,9 @@
 - :sparkles: 开发3步走，测试->编码->重构
 
 ## Github 统计
+<div align="center">
+    <img src="https://raw.githubusercontent.com/congwa/congwa/main/assets/github-contribution-grid-snake.svg">
+</div>
 ![](https://github-readme-stats.vercel.app/api?username=JoeshuTT&count_private=true&show_icons=true&theme=onedark)
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=visiky" />
