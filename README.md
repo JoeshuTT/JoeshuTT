@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://raw.githubusercontent.com/congwa/congwa/main/assets/github-contribution-grid-snake.svg">
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4999&pause=1000&width=435&lines=Hello+I'm+Joeshu)](https://git.io/typing-svg)
 
 ## Hi there 👋
