@@ -1,8 +1,4 @@
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/congwa/congwa/main/assets/github-contribution-grid-snake.svg">
-</div>
-
 ## Hi there 👋
 
 - 🤔 编写高质量、可维护、易扩展的程序代码
@@ -10,6 +6,5 @@
 
 ## Github 统计
 
-![](https://github-readme-stats.vercel.app/api?username=JoeshuTT&count_private=true&show_icons=true&theme=onedark)
-
+![](https://github-readme-stats.vercel.app/api?username=JoeshuTT&show_icons=true)
 
